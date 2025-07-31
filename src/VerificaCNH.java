@@ -9,6 +9,6 @@ public class VerificaCNH {
         
         if (teste == "SIM") {
             System.out.println("OK");
-           
+            scanner.close();   
     }
 }}
