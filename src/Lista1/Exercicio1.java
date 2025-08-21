@@ -1,6 +1,6 @@
 package Lista1;
 
-public class Exerc1 {
+public class Exercicio1 {
 	public static void main(String[] args) {
 
 		// printar inteiros %d
