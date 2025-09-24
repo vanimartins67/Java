@@ -1,3 +1,4 @@
+package Lista2;
 public class Lista2Exercicio5 {
     public static void main(String[] args) {
         int numero = 0;

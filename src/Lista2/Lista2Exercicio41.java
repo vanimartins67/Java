@@ -1,3 +1,4 @@
+package Lista2;
 public class Lista2Exercicio41 {
     public static void main(String[] args) {
         long soma = 0;

@@ -1,3 +1,4 @@
+package Lista2;
 public class Lista2Exercicio3 {
     public static void main(String[] args) {
         int count = 0;

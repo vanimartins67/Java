@@ -1,3 +1,4 @@
+package Lista2;
 public class Lista2Exercicio4 {
     public static void main(String[] args) {
         // Usando for

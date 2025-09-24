@@ -1,3 +1,4 @@
+package Lista2;
 public class Lista2Exercicio28 {
     public static void main(String[] args) {
         double salario = 4000.0;

@@ -1,3 +1,4 @@
+package Lista2;
 public class Lista2Exercicio26 {
     public static void main(String[] args) {
         double S = 0;
