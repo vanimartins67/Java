@@ -18,14 +18,38 @@ public class Lista2Exercicio44 {
             System.out.print("Idade: ");
             int idade = scanner.nextInt();
             
-            System.out.print("Sexo (M/F): ");
-            char sexo = scanner.next().charAt(0);
+            char sexo;
+            while (true) {
+                System.out.print("Sexo (M/F): ");
+                sexo = scanner.next().toUpperCase().charAt(0);
+                if (sexo == 'M' || sexo == 'F') {
+                    break;
+                } else {
+                    System.out.println("Entrada inválida. Por favor, insira 'M' para masculino ou 'F' para feminino.");
+                }
+            }
             
-            System.out.print("Altura (m): ");
-            double altura = scanner.nextDouble();
+            double altura;
+            while (true) {
+                System.out.print("Altura (m): ");
+                altura = scanner.nextDouble();
+                if (altura > 0) {
+                    break;
+                } else {
+                    System.out.println("Altura inválida. Por favor, insira um valor positivo.");
+                }
+            }
             
-            System.out.print("Peso (kg): ");
-            double peso = scanner.nextDouble();
+            double peso;
+            while (true) {
+                System.out.print("Peso (kg): ");
+                peso = scanner.nextDouble();
+                if (peso > 0) {
+                    break;
+                } else {
+                    System.out.println("Peso inválido. Por favor, insira um valor positivo.");
+                }
+            }
             
             // Atualiza estatísticas
             if (idade > maisVelho) maisVelho = idade;
