@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio17 {
+public class Lista2_Exercicio17 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Quantos números deseja ler? ");

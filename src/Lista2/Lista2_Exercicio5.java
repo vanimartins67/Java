@@ -1,4 +1,4 @@
-public class Exercicio5 {
+public class Lista2_Exercicio5 {
     public static void main(String[] args) {
         int numero = 0;
         while (numero <= 100000) {

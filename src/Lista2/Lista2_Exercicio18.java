@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio18 {
+public class Lista2_Exercicio18 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite um número entre 100 e 9999: ");

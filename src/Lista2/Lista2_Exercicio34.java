@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio34 {
+public class Lista2_Exercicio34 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite um número maior que 1: ");

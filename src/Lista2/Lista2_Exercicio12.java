@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio12 {
+public class Lista2_Exercicio12 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite um número inteiro positivo N: ");

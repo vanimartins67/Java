@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio27 {
+public class Lista2_Exercicio27 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int maior = Integer.MIN_VALUE;

@@ -1,4 +1,4 @@
-public class Exercicio41 {
+public class Lista2_Exercicio41 {
     public static void main(String[] args) {
         long soma = 0;
         long somaQuadrados = 0;

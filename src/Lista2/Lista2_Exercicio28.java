@@ -1,4 +1,4 @@
-public class Exercicio28 {
+public class LIsta2_Exercicio28 {
     public static void main(String[] args) {
         double salario = 4000.0;
         double percentualAumento = 1.5;

@@ -1,4 +1,4 @@
-public class Exercicio2 {
+public class Lista2_Exercicio2 {
     public static void main(String[] args) {
         int count = 0;
         int numero = 1;

@@ -1,4 +1,4 @@
-public class Exercicio23 {
+public class Lista2_Exercicio23 {
     public static void main(String[] args) {
         int soma = 0;
         

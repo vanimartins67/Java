@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio42 {
+public class Lista2_Exercicio42 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int[] votos = new int[6]; // índices: 0-3 candidatos, 4 nulos, 5 brancos

@@ -1,4 +1,4 @@
-public class Exercicio26 {
+public class Lista2_Exercicio26 {
     public static void main(String[] args) {
         double S = 0;
         

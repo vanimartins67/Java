@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio22 {
+public class Lista2_Exercicio22 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.print("Digite um número inteiro: ");

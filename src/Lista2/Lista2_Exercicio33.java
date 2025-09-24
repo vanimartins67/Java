@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio33 {
+public class Lista2_Exercicio33 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         double[] medias = new double[10];

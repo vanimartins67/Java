@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio19 {
+public class Lista2_Exercicio19 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int totalLidos = 0;

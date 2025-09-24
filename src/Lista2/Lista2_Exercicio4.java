@@ -1,4 +1,4 @@
-public class Exercicio4 {
+public class Lista2_Exercicio4 {
     public static void main(String[] args) {
         // Usando for
         System.out.println("Usando for:");

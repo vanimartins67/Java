@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Exercicio24 {
+public class Lista2_Exercicio24 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int soma = 0;
